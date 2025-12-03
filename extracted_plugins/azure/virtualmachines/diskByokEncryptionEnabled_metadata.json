@@ -1,0 +1,9 @@
+{
+  "title": "Attached Disk Volumes BYOK Encryption Enabled",
+  "category": "Virtual Machines",
+  "description": "Ensures that attached Azure virtual machine disks have BYOK (Customer-Managed Key) encryption enabled.",
+  "more_info": "Encrypting virtual machine disk volumes helps protect and safeguard your data to meet organizational security and compliance commitments.",
+  "link": "https://learn.microsoft.com/en-us/azure/virtual-machines/windows/disk-encryption-key-vault",
+  "recommended_action": "Ensure that virtual machine disks are created using BYOK encryption"
+}
+

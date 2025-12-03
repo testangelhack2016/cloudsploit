@@ -1,0 +1,9 @@
+{
+  "title": "VM Auto Update Enabled",
+  "category": "Virtual Machines",
+  "description": "Ensures that VM Auto Update is enabled for virtual machines",
+  "more_info": "Enabling Auto Update on Azure virtual machines reduces the security risk of missing security patches.",
+  "link": "https://learn.microsoft.com/en-us/azure/virtual-machines/windows-or-linux/maintenance-and-updates",
+  "recommended_action": "Enable VM auto update on all virtual machines"
+}
+

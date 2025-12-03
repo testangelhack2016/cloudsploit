@@ -1,0 +1,9 @@
+{
+  "title": "App Tier CMK In Use",
+  "category": "Key Vaults",
+  "description": "Ensure that a Customer-Managed Key (CMK) is created and configured for your Microsoft Azure application tier.",
+  "more_info": "Setting a CMK for app tier, you gain full control over who can use this key to access the application data, implementing the principle of least privilege on the encryption key ownership and usage.",
+  "link": "https://learn.microsoft.com/en-us/azure/azure-app-configuration/concept-customer-managed-keys",
+  "recommended_action": "Ensure a CMK created and configured for application tier in each region."
+}
+

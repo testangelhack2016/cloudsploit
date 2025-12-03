@@ -1,0 +1,9 @@
+{
+  "title": "Kubernetes RBAC Enabled",
+  "category": "Kubernetes Service",
+  "description": "Ensures that RBAC is enabled on all Azure Kubernetes Service instances",
+  "more_info": "Role Based Access Control (RBAC) provides greater control and security for Kubernetes clusters and should be enabled on all instances.",
+  "link": "https://learn.microsoft.com/en-us/azure/aks/aad-integration",
+  "recommended_action": "Enable RBAC authentication for all Azure Kubernetes Clusters"
+}
+

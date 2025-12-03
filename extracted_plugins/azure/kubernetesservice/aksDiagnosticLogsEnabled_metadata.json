@@ -1,0 +1,9 @@
+{
+  "title": "AKS Cluster Diagnostic Logs",
+  "category": "Kubernetes Service",
+  "description": "Ensures that Azure Kubernetes clusters have diagnostic logs enabled.",
+  "more_info": "Enabling diagnostic logging for AKS clusters helps with performance monitoring, troubleshooting, and security optimization.",
+  "link": "https://learn.microsoft.com/en-us/azure/aks/monitor-aks#logs",
+  "recommended_action": "Enable diagnostic logging for all AKS clusters."
+}
+

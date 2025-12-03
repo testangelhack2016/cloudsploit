@@ -1,0 +1,9 @@
+{
+  "title": "AKS Cluster Managed Identity Enabled",
+  "category": "Kubernetes Service",
+  "description": "Ensures a system or user assigned managed identity is enabled to authenticate to AKS Cluster.",
+  "more_info": "Maintaining cloud connection credentials in code is a security risk. Credentials should never appear on developer workstations and should not be checked into source control. Managed identities for Azure resources provides Azure services with a managed identity in Azure AD which can be used to authenticate to any service that supports Azure AD authentication, without having to include any credentials in code.",
+  "link": "https://learn.microsoft.com/en-us/azure/aks/use-managed-identity",
+  "recommended_action": "Enable system or user-assigned identities for all AKS Clusters."
+}
+

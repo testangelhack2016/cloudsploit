@@ -1,0 +1,9 @@
+{
+  "title": "VM Approved Extensions",
+  "category": "Virtual Machines",
+  "description": "Ensures that approved virtual machine extensions are installed.",
+  "more_info": "Extensions are small applications that provide post-deployment configuration and automation on Azure VMs. Extensions installed should be approved by the organization to meet the organizational security requirements.",
+  "link": "https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/overview",
+  "recommended_action": "Uninstall unapproved virtual machine extensions"
+}
+

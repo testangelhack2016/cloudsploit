@@ -1,0 +1,9 @@
+{
+  "title": "Key Vault Public Access",
+  "category": "Key Vault",
+  "description": "Ensures that Azure Key Vaults do not allow unrestricted public access",
+  "more_info": "Azure Key Vaults should be configured to restrict public access to protect sensitive data. This can be achieved by either disabling public network access or implementing strict network rules.",
+  "link": "https://learn.microsoft.com/en-us/azure/key-vault/general/network-security",
+  "recommended_action": "Modify Key Vault network settings to disable public access or appropriate configure network rules."
+}
+

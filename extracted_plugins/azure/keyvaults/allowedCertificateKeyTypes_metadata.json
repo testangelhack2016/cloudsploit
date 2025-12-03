@@ -1,0 +1,9 @@
+{
+  "title": "Allowed Certificates Key Types",
+  "category": "Key Vaults",
+  "description": "Ensures that Microsoft Azure Key Vault SSL certificates are using the allowed key types.",
+  "more_info": "Having the right key type set for your Azure Key Vault SSL certificates will enforce the best practices as specified in the security and compliance regulations implemented within your organization.",
+  "link": "https://learn.microsoft.com/en-us/azure/key-vault/certificates/certificate-access-control",
+  "recommended_action": "Ensure that Key Vault SSL certificates are using the allowed key types."
+}
+

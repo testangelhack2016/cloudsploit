@@ -1,0 +1,9 @@
+{
+  "title": "No Unattached Disk Volumes",
+  "category": "Virtual Machines",
+  "description": "Ensures that the Azure virtual machines have no unattached disk volumes.",
+  "more_info": "When a virtual machine (VM) in Azure is deleted, by default, any disks that are attached to the VM aren't deleted. Those disks need to be deleted to save cost for unused resources.",
+  "link": "https://learn.microsoft.com/en-us/azure/virtual-machines/disks-find-unattached-portal",
+  "recommended_action": "Ensure that there are no unattached virtual machine disk volumes"
+}
+

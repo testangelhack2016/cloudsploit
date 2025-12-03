@@ -1,0 +1,9 @@
+{
+  "title": "AKS API Server Authorized IP Ranges",
+  "category": "Kubernetes Service",
+  "description": "Ensures that Azure Kubernetes clusters have authorized IP ranges configured.",
+  "more_info": "Specifying IP ranges improves the security of your clusters and minimizes the risk of attacks by limiting the IP address ranges that can access the API server. This helps ensure that only authorized users and systems can interact with your cluster, enhancing overall security posture.",
+  "link": "https://learn.microsoft.com/en-us/azure/aks/api-server-authorized-ip-ranges",
+  "recommended_action": "Modify AKS clusters and configure authorized IP ranges."
+}
+

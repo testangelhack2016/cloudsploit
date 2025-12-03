@@ -1,0 +1,9 @@
+{
+  "title": "Cosmos DB Diagnostic Logs",
+  "category": "Cosmos DB",
+  "description": "Ensures that diagnostic logging is enabled for Azure Cosmos DB accounts.",
+  "more_info": "Enabling diagnostic logs for Cosmos DB accounts is crucial to collect resource logs, which provide detailed data about resource operations. It helps to gain valuable insights into resource activity, assisting in monitoring, diagnosing issues, and optimizing the performance of Azure resources.",
+  "link": "https://learn.microsoft.com/en-us/azure/cosmos-db/monitor-resource-logs",
+  "recommended_action": "Enable diagnostic logging for all Azure Cosmos DB accounts."
+}
+
